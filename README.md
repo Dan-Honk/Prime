@@ -18,3 +18,26 @@ Our mission is to create a **living, breathing world** where players can build, 
 
 ## 📁 Project Structure
 
+
+## 👥 Team
+
+- **Developer 1 (Name TBD)** – Role: Lead Developer
+- **Danhonk** – Role: Developer
+- **Developer 3 (Name TBD)** – Role: Game Design & Systems
+
+## 📅 Roadmap
+
+- [x] Project setup with Unity 6.1 and GitHub
+- [ ] SLG core system: resources, units, buildings
+- [ ] Dynamic world map & territory control
+- [ ] Combat system (auto & manual modes)
+- [ ] Multiplayer prototyping & tests
+- [ ] UI/UX & meta-game loop
+- [ ] Alpha release preparation
+
+## 📦 License
+
+This project is currently under development and not yet licensed.  
+License type (MIT / Private / Commercial) to be decided at a later stage.
+
+
