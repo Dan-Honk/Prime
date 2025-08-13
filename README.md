@@ -1,6 +1,6 @@
 # Prime
 
-> A next-generation open world SLG strategy game built with Unity 6.1.
+> A next-generation open world SLG strategy game built with Unity 6.0.55
 
 ## 🚀 Project Vision
 
